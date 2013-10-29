@@ -13,4 +13,4 @@ GitHub Account: xulander
 
 Lab: T 4-6pm
 
-![alt tag](http://octodex.github.com/images/foundingfather_v2.png)
+![alt tag](http://octodex.github.com/images/foundingfather_v2.png) 
