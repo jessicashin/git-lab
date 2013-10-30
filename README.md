@@ -1,14 +1,11 @@
-git-lab
-=======
-
 CSCI 201 - Lab 10 with Alice && Bob
 
 Representing Alice: Jessica Shin
-USC Email: shinjs@usc.edu 
-GitHub Account:jescka
+USC Email: shinjs@usc.edu
+Github Account: jescka
 
-Representing Bob: Elvis Xu 
-USC Email: elvisxu@usc.edu 
+Representing Bob : Elvis Xu
+USC Email: elvisxu@usc.edu
 GitHub Account: xulander
 
 Representing Bob II: Jason Hoffman
